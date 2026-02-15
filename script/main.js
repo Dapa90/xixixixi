@@ -10,7 +10,7 @@ document.addEventListener('keydown', function(e) {
 
 const messages = [
     "Tap dimana aja yaaa",
-    "hey kamu ❤️",
+    "hai nisaa ❤️",
     "aku mau ngomong sesuatu nih",
     "coba pencet",
     "pencet lagi",
@@ -25,9 +25,9 @@ const messages = [
     "yaudah deh",
     "padahal",
     "aku cuma mau bilang",
-    "kepasar beli terasi pulangnya makan kadal",
-    "i love you❤️",
-    "bjiirlah",
+    "nisa tuhh",
+    "Cantik lucu imut, and aku always doain kamu apapun itu",
+    "SEMOGA NISA LOLOS SNBP 2026 AAMIIN",
     "coba pencet tombol dibawah ini 💝"
 ];
 
