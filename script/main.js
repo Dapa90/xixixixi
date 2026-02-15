@@ -24,10 +24,10 @@ const messages = [
     "aku cuma mau bilang",
     "nisa tuhh",
     "Cantik lucu imut",
+    "Jika ada yang lebih indah dari gunung dan lautan awan mungkin itu adalah senyumanmu, tawamu dan semua tentangmu.",
+    "ini bukan tentang gunungg",
+    "Tapi ini tentang mu (NISAAA) <3 ",
     "SEMOGA NISA LOLOS SNBP 2026 AAMIIN",
-    "SELAGI MASIH MUDA BERKELANA LAH",
-    "MASA MUDA CUMA SEKALI PERBANYAK LAH RELASI",
-    "KARENA MASA MUDA TIDAK AKAN TERULANG LAGI",
     "coba pencet tombol dibawah ini 💝"
 ];
 

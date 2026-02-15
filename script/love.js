@@ -39,7 +39,7 @@ function init() {
     ctx.font = "60px Arial";
     ctx.fillStyle = "lightblue";
     ctx.textAlign = "center";
-    ctx.fillText("Kamu Adalah Perwujudan Keindahan Semesta Dalam Bentuk Lainya -3428Mdpl", width / 2, height / 2.2 + 400);
+    ctx.fillText("I Love You Nisaa <3", width / 2, height / 2.2 + 400);
   }
 
   function heartPosition(rad) {
