@@ -11,7 +11,7 @@ document.addEventListener('keydown', function(e) {
 const messages = [
     "Tap dimana aja yaaa",
     "hai nisaa ❤️",
-    "aku mau ngomong sesuatu nih",
+    "daoa mau ngomong sesuatu nih",
     "coba pencet",
     "pencet lagi",
     "ayo semangat mencetnya",
@@ -21,13 +21,13 @@ const messages = [
     "terakhir",
     "tapi bohong hehe yahaha hayyuk",
     "aku tau pasti kamu kesal",
-    "hmm",
-    "yaudah deh",
-    "padahal",
     "aku cuma mau bilang",
     "nisa tuhh",
-    "Cantik lucu imut, and aku always doain kamu apapun itu",
+    "Cantik lucu imut",
     "SEMOGA NISA LOLOS SNBP 2026 AAMIIN",
+    "SELAGI MASIH MUDA BERKELANA LAH",
+    "MASA MUDA CUMA SEKALI PERBANYAK LAH RELASI",
+    "KARENA MASA MUDA TIDAK AKAN TERULANG LAGI",
     "coba pencet tombol dibawah ini 💝"
 ];
 
